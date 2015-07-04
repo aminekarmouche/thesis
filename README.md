@@ -1,6 +1,7 @@
 # Thesis-presentation
-Master thesis presentation in Latex and beamer expected to be done on June 3rd, 2015.
-Title: Momentum Investment Strategies In the MENA Financial Markets
+## Title: Momentum Investment Strategies In the MENA Financial Markets
+## Date: June 3rd, 2015
+Master thesis presentation in Latex and beamer
 
 # Prerequisites
 - Latex
